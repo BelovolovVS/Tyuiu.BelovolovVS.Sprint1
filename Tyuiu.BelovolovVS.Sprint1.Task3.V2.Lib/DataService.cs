@@ -8,6 +8,7 @@ namespace Tyuiu.BelovolovVS.Sprint1.Task3.V2.Lib
         public double PurchaseAmount(double priceNotebook, int amountNotebook, double pricePencil, int amountPencil)
         {
             double total = (priceNotebook * amountNotebook) + (pricePencil * amountPencil);
+            
             return Math.Round(total, 3);
         }
     }
