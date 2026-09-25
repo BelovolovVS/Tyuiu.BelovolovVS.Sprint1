@@ -13,7 +13,7 @@ namespace Tyuiu.BelovolovVS.Sprint1.Task3.V2
             Console.WriteLine("* Тема: Алгоритмы линейной структуры                                      *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #2                                                              *");
-            Console.WriteLine("* Выполнил: Беловолов Вадим Сергеевич                                     *");
+            Console.WriteLine("* Выполнил: Беловолов Вячеслав Сергеевич                                  *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Вычислить стоимость покупки, состоящей из тетрадей и карандашей.        *");

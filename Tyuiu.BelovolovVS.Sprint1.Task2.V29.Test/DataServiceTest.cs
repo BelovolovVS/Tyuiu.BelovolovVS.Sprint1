@@ -11,8 +11,8 @@ namespace Tyuiu.BelovolovVS.Sprint1.Task2.V29.Test
         public void ValidConvertSecondsToHours()
         {
             DataService ds = new DataService();
-            int value = 7200;
-            int expected = 2;
+            int value = 600;
+            int expected = 10;
 
             int actual = ds.ConvertSecondsToHours(value);
 

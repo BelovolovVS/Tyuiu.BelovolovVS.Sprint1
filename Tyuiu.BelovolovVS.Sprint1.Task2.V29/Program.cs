@@ -13,7 +13,7 @@ namespace Tyuiu.BelovolovVS.Sprint1.Task2.V29
             Console.WriteLine("* Тема: Алгоритмы линейной структуры                                      *");
             Console.WriteLine("* Задание #2                                                              *");
             Console.WriteLine("* Вариант #29                                                             *");
-            Console.WriteLine("* Выполнил: Беловолов Вадим Сергеевич                                     *");
+            Console.WriteLine("* Выполнил: Беловолов Вячеслав Сергеевич                                  *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Задано количество секунд. Перевести время в полные часы.                *");

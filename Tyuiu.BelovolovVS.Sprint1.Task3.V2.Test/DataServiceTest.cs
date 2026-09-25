@@ -23,4 +23,3 @@ namespace Tyuiu.BelovolovVS.Sprint1.Task3.V2.Test
         }
     }
 }
-}
