@@ -8,7 +8,7 @@ namespace Tyuiu.BelovolovVS.Sprint1.Task4.V26.Lib
         public double Calculate(double x, double y)
         {
             double numerator = Math.Atan(x) + y;
-            double denominator = Math.Exp(y);
+            double denominator = Math.Exp(y) - 31.5;
 
             double result = numerator / denominator;
             return Math.Round(result, 3);

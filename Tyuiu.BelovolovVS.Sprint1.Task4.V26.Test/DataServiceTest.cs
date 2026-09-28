@@ -11,10 +11,10 @@ namespace Tyuiu.BelovolovVS.Sprint1.Task4.V26.Test
         public void ValidCalculate()
         {
             DataService ds = new DataService();
-            double x = 0.0;
+            double x = 1.0;
             double y = 1.0;
 
-            double expected = 0.368;
+            double expected = -0.062;
             double actual = ds.Calculate(x, y);
 
             Assert.AreEqual(expected, actual);
