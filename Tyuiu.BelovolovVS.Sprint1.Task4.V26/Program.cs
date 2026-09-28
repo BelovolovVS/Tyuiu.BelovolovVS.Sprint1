@@ -38,6 +38,7 @@ namespace Tyuiu.BelovolovVS.Sprint1.Task4.V26
             Console.WriteLine($"Результат вычисления: {res}");
 
             Console.WriteLine("***************************************************************************");
+           
             Console.ReadKey();
         }
     }
